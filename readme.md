@@ -61,18 +61,3 @@ The dataset consists of app reviews and corresponding ratings. The "score" colum
 5. **requirements.txt**: Lists all the required libraries and their versions for easy installation using `pip`.
 
 ---
-
-## Key Concepts Explored
-
-
-
-1. Text analytics and the need.
-2. Architecture of RNN.
-3. Architecture of LSTM.
-4. Tokenization of text.
-5. Lemmatization of text.
-6. Converting data to tensors.
-7. Handling class imbalance.
-8. Building an LSTM model in PyTorch.
-
----
